@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ansh_patel_1104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ansh_patel_1104" height="30" width="40" /></a>
+<a href="https://instagram.com/ansh_patel_1104" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="ansh_patel_1104" height="30" width="40" /></a>
 <a href="https://twitter.com/empero_rx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="empero_rx" height="30" width="40" /></a>
 </p>
 
