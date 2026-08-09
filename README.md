@@ -72,7 +72,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 <br>
 
-## stack
+##  stack
 
 <div align="center">
 
@@ -125,8 +125,8 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <tr>
 <td valign="middle"><b>AI / ML</b></td>
 <td valign="middle">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="36"/>
+<img src="https://img.shields.io/badge/HuggingFace-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="36"/>
 <sub>&nbsp;&nbsp;+ LangGraph · RAG · Vector Search · Prompt Engineering · Bedrock</sub>
 </td>
 </tr>
@@ -139,6 +139,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <br>
 
 <div align="center">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xEMPERORx/xEMPERORx/output/github-contribution-grid-snake-dark.svg">
