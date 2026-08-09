@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,25:B5179E,50:7209B7,75:560BAD,100:3A0CA3&height=260&section=header&text=ANSH%20PATEL&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=BACKEND%20ENGINEER%20%E2%80%94%20APIs%20%C2%B7%20DISTRIBUTED%20SYSTEMS&descAlignY=56&descAlign=50&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=designing+APIs+that+hold+up+under+load;Redis+%2B+PostgreSQL+%2B+Elasticsearch+in+production;now+building+retrieval+pipelines+on+top" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Bungee&size=44&duration=4000&pause=100000&color=E6EDF3&center=true&vCenter=true&width=500&height=60&lines=ANSH+PATEL" alt="name" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=9D7BFF&center=true&vCenter=true&width=650&lines=designing+APIs+that+hold+up+under+load;Redis+%2B+PostgreSQL+%2B+Elasticsearch+in+production;now+building+retrieval+pipelines+on+top" alt="Typing SVG" />
+
+<br>
 
 <a href="https://linkedin.com/in/anshpatel11/"><img src="https://img.shields.io/badge/LinkedIn-2d3748?style=flat-square&logo=linkedin&logoColor=E6EDF3&labelColor=161b22"/></a>&nbsp;
 <a href="mailto:patelansh2407@gmail.com"><img src="https://img.shields.io/badge/Email-2d3748?style=flat-square&logo=gmail&logoColor=E6EDF3&labelColor=161b22"/></a>&nbsp;
@@ -21,7 +23,7 @@ $ cat ansh.env
 role:        Backend Software Engineer
 focus:       Scalable APIs · Distributed Systems · LLM-powered apps
 currently:   Interning @ Armakuni — shipping FastAPI services to prod
-learning:    Statistics · Linear Algebra · Distributed Systems
+learning:    Node.js · Statistics · Linear Algebra
 looking_for: Mentorship / collabs in AI-ML
 fun_fact:    I debug by talking to my code like it's a person. It works
              more than it should.
@@ -72,7 +74,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 <br>
 
-##  stack
+## stack
 
 <div align="center">
 
@@ -104,29 +106,37 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <tr>
 <td width="130" valign="middle"><b>Backend</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=fastapi,django" height="36"/>
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=00C7B7" height="32"/>
+<img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=44B78B" height="32"/>
 <sub>&nbsp;&nbsp;+ SQLAlchemy · Alembic · Pydantic · OAuth2 · WebSockets</sub>
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Data</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="36"/>
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="32"/>
+<img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" height="32"/>
+<img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=DC382D" height="32"/>
+<img src="https://img.shields.io/badge/Elasticsearch-161b22?style=for-the-badge&logo=elasticsearch&logoColor=FEC514" height="32"/>
 <sub>&nbsp;&nbsp;+ ChromaDB (vector store)</sub>
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Cloud</b></td>
 <td valign="middle">
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,githubactions" height="36"/>
+<img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" height="32"/>
+<img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639" height="32"/>
+<img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" height="32"/>
+<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05033" height="32"/>
 <sub>&nbsp;&nbsp;+ Lambda · ECS · RDS · SQS · Cognito · VPC</sub>
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>AI / ML</b></td>
 <td valign="middle">
-<img src="https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="36"/>
-<img src="https://img.shields.io/badge/HuggingFace-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="36"/>
+<img src="https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="32"/>
+<img src="https://img.shields.io/badge/HuggingFace-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="32"/>
 <sub>&nbsp;&nbsp;+ LangGraph · RAG · Vector Search · Prompt Engineering · Bedrock</sub>
 </td>
 </tr>
@@ -139,7 +149,6 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <br>
 
 <div align="center">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xEMPERORx/xEMPERORx/output/github-contribution-grid-snake-dark.svg">
@@ -154,6 +163,6 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 *"Talk to your bugs. Eventually, one of you will make sense."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,25:560BAD,50:7209B7,75:B5179E,100:F72585&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
