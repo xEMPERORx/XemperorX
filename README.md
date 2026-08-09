@@ -23,7 +23,7 @@ $ cat ansh.env
 role:        Backend Software Engineer
 focus:       Scalable APIs · Distributed Systems · LLM-powered apps
 currently:   Interning @ Armakuni — shipping FastAPI services to prod
-learning:    Node.js · Statistics · Linear Algebra
+learning:    Statistics · Linear Algebra · Distributed Systems
 looking_for: Mentorship / collabs in AI-ML
 fun_fact:    I debug by talking to my code like it's a person. It works
              more than it should.
@@ -80,7 +80,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -88,7 +88,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 ![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -124,7 +124,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <tr>
 <td valign="middle"><b>Cloud</b></td>
 <td valign="middle">
-<img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="32"/>
+<img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32"/>
 <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED" height="32"/>
 <img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639" height="32"/>
 <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" height="32"/>
