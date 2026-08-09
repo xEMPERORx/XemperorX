@@ -74,7 +74,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 <br>
 
-## stack
+##  stack
 
 <div align="center">
 
@@ -108,7 +108,12 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <td valign="middle">
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=00C7B7" height="32"/>
 <img src="https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=44B78B" height="32"/>
-<sub>&nbsp;&nbsp;+ SQLAlchemy · Alembic · Pydantic · OAuth2 · WebSockets</sub>
+<br><br>
+<img src="https://img.shields.io/badge/SQLAlchemy-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Alembic-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Pydantic-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/OAuth2-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/WebSockets-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
 </td>
 </tr>
 <tr>
@@ -118,7 +123,8 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" height="32"/>
 <img src="https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=DC382D" height="32"/>
 <img src="https://img.shields.io/badge/Elasticsearch-161b22?style=for-the-badge&logo=elasticsearch&logoColor=FEC514" height="32"/>
-<sub>&nbsp;&nbsp;+ ChromaDB (vector store)</sub>
+<br><br>
+<img src="https://img.shields.io/badge/ChromaDB%20(vector%20store)-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
 </td>
 </tr>
 <tr>
@@ -129,26 +135,46 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 <img src="https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639" height="32"/>
 <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" height="32"/>
 <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05033" height="32"/>
-<sub>&nbsp;&nbsp;+ Lambda · ECS · RDS · SQS · Cognito · VPC</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Lambda-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/ECS-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/RDS-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/SQS-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Cognito-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/VPC-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>AI / ML</b></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=1C3C3C" height="32"/>
+<img src="https://img.shields.io/badge/LangGraph-161b22?style=for-the-badge&logo=langgraph&logoColor=1C3C3C" height="32"/>
 <img src="https://img.shields.io/badge/HuggingFace-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" height="32"/>
-<sub>&nbsp;&nbsp;+ LangGraph · RAG · Vector Search · Prompt Engineering · Bedrock</sub>
+<br><br>
+<img src="https://img.shields.io/badge/RAG-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Vector%20Search-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/AWS%20Bedrock-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>Systems</b></td>
-<td valign="middle"><sub>Distributed Systems · Microservices · System Design · Async Programming · MVCC · DB Indexing · Concurrency Control</sub></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Distributed%20Systems-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Microservices-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/System%20Design-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Async%20Programming-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/MVCC-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/DB%20Indexing-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+<img src="https://img.shields.io/badge/Concurrency%20Control-21262d?style=flat-square&color=21262d&labelColor=21262d"/>
+</td>
 </tr>
 </table>
 
 <br>
 
 <div align="center">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xEMPERORx/xEMPERORx/output/github-contribution-grid-snake-dark.svg">
