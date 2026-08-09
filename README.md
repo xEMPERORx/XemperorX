@@ -22,7 +22,7 @@ $ cat ansh.env
 ```yaml
 role:        Backend Software Engineer
 focus:       Scalable APIs · Distributed Systems · LLM-powered apps
-currently:   Interning @ Armakuni — shipping FastAPI services to prod
+currently:   SWE @ Armakuni — shipping FastAPI services to prod
 learning:    Statistics · Linear Algebra · Distributed Systems
 looking_for: Mentorship / collabs in AI-ML
 fun_fact:    I debug by talking to my code like it's a person. It works
