@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a1f2e,100:11151c&height=260&section=header&text=ANSH%20PATEL&fontSize=52&fontColor=E6EDF3&fontAlignY=38&animation=twinkling&desc=BACKEND%20ENGINEER%20%E2%80%94%20APIs%20%C2%B7%20DISTRIBUTED%20SYSTEMS&descAlignY=58&descAlign=50&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,25:B5179E,50:7209B7,75:560BAD,100:3A0CA3&height=260&section=header&text=ANSH%20PATEL&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=BACKEND%20ENGINEER%20%E2%80%94%20APIs%20%C2%B7%20DISTRIBUTED%20SYSTEMS&descAlignY=56&descAlign=50&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=designing+APIs+that+hold+up+under+load;Redis+%2B+PostgreSQL+%2B+Elasticsearch+in+production;now+building+retrieval+pipelines+on+top" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@ $ cat ansh.env
 role:        Backend Software Engineer
 focus:       Scalable APIs · Distributed Systems · LLM-powered apps
 currently:   Interning @ Armakuni — shipping FastAPI services to prod
-learning:    Statistics · Linear Algebra · Distirbuted System 
+learning:    Statistics · Linear Algebra · Distributed Systems
 looking_for: Mentorship / collabs in AI-ML
 fun_fact:    I debug by talking to my code like it's a person. It works
              more than it should.
@@ -72,7 +72,7 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 <br>
 
-## 🧰 stack
+## stack
 
 <div align="center">
 
@@ -100,33 +100,45 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 <br>
 
-<table>
+<table cellpadding="10">
 <tr>
-<td width="130" valign="top"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,django" height="32"/> &nbsp; <sub>+ SQLAlchemy · Alembic · Pydantic · OAuth2 · WebSockets</sub></td>
+<td width="130" valign="middle"><b>Backend</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=fastapi,django" height="36"/>
+<sub>&nbsp;&nbsp;+ SQLAlchemy · Alembic · Pydantic · OAuth2 · WebSockets</sub>
+</td>
 </tr>
 <tr>
-<td valign="top"><b>Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="32"/> &nbsp; <sub>+ ChromaDB (vector store)</sub></td>
+<td valign="middle"><b>Data</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="36"/>
+<sub>&nbsp;&nbsp;+ ChromaDB (vector store)</sub>
+</td>
 </tr>
 <tr>
-<td valign="top"><b>Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,githubactions" height="32"/> &nbsp; <sub>+ Lambda · ECS · RDS · SQS · Cognito · VPC</sub></td>
+<td valign="middle"><b>Cloud</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,githubactions" height="36"/>
+<sub>&nbsp;&nbsp;+ Lambda · ECS · RDS · SQS · Cognito · VPC</sub>
+</td>
 </tr>
 <tr>
-<td valign="top"><b>AI / ML</b></td>
-<td>![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) &nbsp; <sub>+ LangGraph · RAG · Vector Search · Prompt Engineering · Bedrock</sub></td>
+<td valign="middle"><b>AI / ML</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
+<sub>&nbsp;&nbsp;+ LangGraph · RAG · Vector Search · Prompt Engineering · Bedrock</sub>
+</td>
 </tr>
 <tr>
-<td valign="top"><b>Systems</b></td>
-<td><sub>Distributed Systems · Microservices · System Design · Async Programming · MVCC · DB Indexing · Concurrency Control</sub></td>
+<td valign="middle"><b>Systems</b></td>
+<td valign="middle"><sub>Distributed Systems · Microservices · System Design · Async Programming · MVCC · DB Indexing · Concurrency Control</sub></td>
 </tr>
 </table>
 
 <br>
 
 <div align="center">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xEMPERORx/xEMPERORx/output/github-contribution-grid-snake-dark.svg">
@@ -141,6 +153,6 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 
 *"Talk to your bugs. Eventually, one of you will make sense."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,25:560BAD,50:7209B7,75:B5179E,100:F72585&height=120&section=footer" width="100%"/>
 
 </div>
