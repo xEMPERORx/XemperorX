@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a1f2e,100:11151c&height=260&section=header&text=ANSH%20PATEL&fontSize=52&fontColor=E6EDF3&fontAlignY=38&animation=twinkling&desc=BACKEND%20ENGINEER%20%E2%80%94%20APIs%20%C2%B7%20DISTRIBUTED%20SYSTEMS%20%C2%B7%20LLM%20INFRA&descAlignY=58&descAlign=50&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1a1f2e,100:11151c&height=260&section=header&text=ANSH%20PATEL&fontSize=52&fontColor=E6EDF3&fontAlignY=38&animation=twinkling&desc=BACKEND%20ENGINEER%20%E2%80%94%20APIs%20%C2%B7%20DISTRIBUTED%20SYSTEMS&descAlignY=58&descAlign=50&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=designing+APIs+that+hold+up+under+load;Redis+%2B+PostgreSQL+%2B+Elasticsearch+in+production;now+building+retrieval+pipelines+on+top" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@ $ cat ansh.env
 role:        Backend Software Engineer
 focus:       Scalable APIs · Distributed Systems · LLM-powered apps
 currently:   Interning @ Armakuni — shipping FastAPI services to prod
-learning:    Node.js · Statistics · Linear Algebra
+learning:    Statistics · Linear Algebra · Distirbuted System 
 looking_for: Mentorship / collabs in AI-ML
 fun_fact:    I debug by talking to my code like it's a person. It works
              more than it should.
@@ -29,13 +29,13 @@ fun_fact:    I debug by talking to my code like it's a person. It works
 
 <br>
 
-## ⚙️ things i've shipped
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎟️ Ticket Booking Backend
+### Ticket Booking Backend
 `FastAPI` `PostgreSQL` `Redis` `Elasticsearch` `Celery`
 
 Layered movie/event ticketing backend (routes → services → repos). JWT + Google OAuth, Elasticsearch search, Celery/Redis for async booking reminders.
@@ -43,7 +43,7 @@ Layered movie/event ticketing backend (routes → services → repos). JWT + Goo
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Memory-Augmented AI Chatbot
+### Memory-Augmented AI Chatbot
 `FastAPI` `LangChain` `Redis` `SQLite` `ChromaDB`
 
 4-layer memory system. A `MemoryRouter` fires a fast LLM call to pick the right memory store per message before the main model replies.
@@ -53,7 +53,7 @@ Layered movie/event ticketing backend (routes → services → repos). JWT + Goo
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ CloudRoom
+### CloudRoom
 `FastAPI` `Redis` `AWS S3`
 
 Zero-account file sharing via ephemeral rooms. Redis (TTL) is the source of truth for session state; files are served directly from S3 via presigned URLs — no proxying.
@@ -61,7 +61,7 @@ Zero-account file sharing via ephemeral rooms. Redis (TTL) is the source of trut
 </td>
 <td width="50%" valign="top">
 
-### 🔗 URL Shortener API
+### URL Shortener API
 `FastAPI` `Async SQLAlchemy` `Redis` `Snowflake IDs`
 
 Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-insert. Read-through Redis cache for redirects.
@@ -75,24 +75,58 @@ Collision-free short keys via Base62-encoded Snowflake IDs — no lookup-before-
 ## 🧰 stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,java,cpp,fastapi,django,postgres,mongodb,redis,elasticsearch,sqlite,aws,docker,nginx,linux,git,github,githubactions&theme=dark&perline=9" />
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Celery](https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 <br>
 
 <table>
-<tr><td width="130" valign="top"><b>Backend</b></td><td>REST APIs · SQLAlchemy · Alembic · Pydantic · JWT / OAuth2 · Celery · WebSockets</td></tr>
-<tr><td valign="top"><b>Data</b></td><td>PostgreSQL · MongoDB · Redis · Elasticsearch · SQLite · ChromaDB (vector store)</td></tr>
-<tr><td valign="top"><b>Cloud / AWS</b></td><td>EC2 · ECS · ECR · Lambda · RDS · S3 · IAM · CloudWatch · API Gateway · SNS · SQS · DynamoDB · ElastiCache · Cognito · VPC</td></tr>
-<tr><td valign="top"><b>AI / ML</b></td><td>LangChain · LangGraph · RAG pipelines · Hugging Face Transformers · Vector Search · Prompt Engineering · AWS Bedrock</td></tr>
-<tr><td valign="top"><b>Systems</b></td><td>Distributed Systems · Microservices · System Design · Async Programming · MVCC · DB Indexing · Concurrency Control</td></tr>
+<tr>
+<td width="130" valign="top"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,django" height="32"/> &nbsp; <sub>+ SQLAlchemy · Alembic · Pydantic · OAuth2 · WebSockets</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="32"/> &nbsp; <sub>+ ChromaDB (vector store)</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,githubactions" height="32"/> &nbsp; <sub>+ Lambda · ECS · RDS · SQS · Cognito · VPC</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>AI / ML</b></td>
+<td>![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) &nbsp; <sub>+ LangGraph · RAG · Vector Search · Prompt Engineering · Bedrock</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Systems</b></td>
+<td><sub>Distributed Systems · Microservices · System Design · Async Programming · MVCC · DB Indexing · Concurrency Control</sub></td>
+</tr>
 </table>
 
 <br>
 
 <div align="center">
 
-### 🐍 contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xEMPERORx/xEMPERORx/output/github-contribution-grid-snake-dark.svg">
